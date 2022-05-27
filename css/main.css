@@ -1,0 +1,64 @@
+body {
+  display: flex;
+}
+
+.box {
+  background-color: #ffd845;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding-bottom: 300px;
+}
+.form {
+  margin-top: 70px;
+  margin-left: 220px;
+  margin-right: 300px;
+  display: flex;
+}
+.myselect {
+  padding: 7px 55px;
+  border-radius: 10px;
+}
+.search-btn {
+  padding: 6px 30px;
+  border-radius: 10px;
+  margin: 0 17px;
+  border: none;
+  border: 1px solid grey;
+}
+.select_two {
+  margin-right: 35px;
+}
+.heart-icon {
+  margin-left: 220px;
+}
+/* cards */
+.box-card {
+  margin-top: 100px;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 307px;
+  /* height: 423px; */
+  left: 975px;
+  top: 958px;
+
+  background: #ffffff;
+  border: 2px solid #000000;
+  border-radius: 20px;
+}
+.card-img-top {
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+.card-line {
+  width: 100%;
+  height: 2px;
+  background-color: black;
+}
+.card-title {
+  margin-top: 40px;
+}
